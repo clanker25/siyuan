@@ -1,0 +1,450 @@
+{
+    "prefixLength": 32,
+    "defaultSeconds": 0.2,
+    "buckets": {
+        "TestAgentLogOutputLimitPreserves": {
+            "seconds": 0.001,
+            "tests": 2
+        },
+        "TestAgentLogToolReadsSearchesAnd": {
+            "seconds": 0.033,
+            "tests": 1
+        },
+        "TestAttrHandlerRequiredArguments": {
+            "seconds": 0,
+            "tests": 2
+        },
+        "TestAttrSetRejectsNonStringValue": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestBazaarProjectCandidateInspec": {
+            "seconds": 0.317,
+            "tests": 1
+        },
+        "TestBazaarProjectLinkedCreationC": {
+            "seconds": 0.051,
+            "tests": 1
+        },
+        "TestBazaarProjectManagedArchiveC": {
+            "seconds": 0.065,
+            "tests": 1
+        },
+        "TestBazaarProjectOfflineGuardsAn": {
+            "seconds": 0.043,
+            "tests": 1
+        },
+        "TestBazaarProjectSelectedInspect": {
+            "seconds": 0.443,
+            "tests": 1
+        },
+        "TestBazaarProjectUnknownErrorsRe": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestBazaarProjectUsesExistingSna": {
+            "seconds": 0.04,
+            "tests": 2
+        },
+        "TestBazaarToolCompactPagination": {
+            "seconds": 0.005,
+            "tests": 1
+        },
+        "TestBazaarToolGuards": {
+            "seconds": 1.037,
+            "tests": 2
+        },
+        "TestBazaarToolInstalledEnabledFi": {
+            "seconds": 1.122,
+            "tests": 2
+        },
+        "TestBazaarToolListAndInstallChec": {
+            "seconds": 0.002,
+            "tests": 1
+        },
+        "TestBazaarToolLocalPluginLifecyc": {
+            "seconds": 0.389,
+            "tests": 2
+        },
+        "TestBazaarToolUpdateAllTargetsAn": {
+            "seconds": 0.003,
+            "tests": 1
+        },
+        "TestBazaarToolUpdatesCompactPagi": {
+            "seconds": 0.002,
+            "tests": 1
+        },
+        "TestBlockToolCreatesNativeContai": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestBlockToolDocumentsNativeCont": {
+            "seconds": 1,
+            "tests": 0
+        },
+        "TestBlockToolDocumentsPlacement": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestBlockToolDocumentsSuperBlock": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestBlockToolPreservesNativeDOMI": {
+            "seconds": 0,
+            "tests": 2
+        },
+        "TestBlockWriteSuccess": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestBlockWriteSuccessRejectsEmpt": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestBuildCapabilityIDKeepsSegmen": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestBuiltinSkillRejectsForgedCon": {
+            "seconds": 0.049,
+            "tests": 1
+        },
+        "TestBuiltinSkillTrustedActivatio": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestCallToolResultPreservesExpli": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestCapabilityActionsForTool": {
+            "seconds": 1,
+            "tests": 0
+        },
+        "TestCapabilityIDForToolFallback": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestCapabilityManifestIncludesAg": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestCompileToolValidatorRejectsE": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestCompileToolValidatorRejectsI": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestContentToolsShareMarkdownSyn": {
+            "seconds": 0,
+            "tests": 2
+        },
+        "TestDatabaseActionEffects": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestDatabaseKeySetTemplateArgume": {
+            "seconds": 0.002,
+            "tests": 1
+        },
+        "TestDatabaseKeyTemplatePersisten": {
+            "seconds": 0.011,
+            "tests": 1
+        },
+        "TestDatabaseKeyUpdateOptionsMain": {
+            "seconds": 0.027,
+            "tests": 1
+        },
+        "TestDatabaseKeyUpdateRejectsInva": {
+            "seconds": 1.014,
+            "tests": 1
+        },
+        "TestDatabaseKeyUpdateRelationAnd": {
+            "seconds": 0.11,
+            "tests": 1
+        },
+        "TestDatabaseKeyUpdateScalarSetti": {
+            "seconds": 0.166,
+            "tests": 1
+        },
+        "TestDatabaseNativeStructuredArgu": {
+            "seconds": 0.004,
+            "tests": 2
+        },
+        "TestDatabasePreviousKeyIDDefault": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestDatabaseStringArray": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestDatabaseStructuredRenderOutp": {
+            "seconds": 0.003,
+            "tests": 1
+        },
+        "TestDatabaseToolsRejectIncomplet": {
+            "seconds": 0.017,
+            "tests": 2
+        },
+        "TestDatabaseViewActionsAndArgume": {
+            "seconds": 0.002,
+            "tests": 1
+        },
+        "TestDatabaseViewConfigurationVal": {
+            "seconds": 0,
+            "tests": 0
+        },
+        "TestDatabaseViewFieldIDsSupports": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestDatabaseViewPartialUpdateArg": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestDecisionBatchProviderSnapsho": {
+            "seconds": 1.008,
+            "tests": 1
+        },
+        "TestDecisionBlockSources": {
+            "seconds": 0.046,
+            "tests": 0
+        },
+        "TestDecisionOpenAIRefusalStopsBa": {
+            "seconds": 1.002,
+            "tests": 2
+        },
+        "TestDecisionRejectsInvalidBatchB": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestDecisionSequentialPartialRes": {
+            "seconds": 0.005,
+            "tests": 1
+        },
+        "TestDocumentSearchDisplayFields": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestDocumentedMarkdownExamplesCr": {
+            "seconds": 0.001,
+            "tests": 0
+        },
+        "TestDocumentedSQLQueryEmbedCreat": {
+            "seconds": 1,
+            "tests": 2
+        },
+        "TestFileManagedDeliveryReadableB": {
+            "seconds": 1.763,
+            "tests": 1
+        },
+        "TestFileManagedPrivateContextAnd": {
+            "seconds": 0.276,
+            "tests": 1
+        },
+        "TestFileManagedRevokedGrantAndRa": {
+            "seconds": 0.269,
+            "tests": 1
+        },
+        "TestFileMetadataBoundedEscapedUT": {
+            "seconds": 0.314,
+            "tests": 1
+        },
+        "TestFileMetadataLongLineEmptyAnd": {
+            "seconds": 0.5,
+            "tests": 1
+        },
+        "TestFileMetadataRejectsInvalidPa": {
+            "seconds": 0.372,
+            "tests": 1
+        },
+        "TestFileQueryLimits": {
+            "seconds": 63.095,
+            "tests": 1
+        },
+        "TestFileSafeErrorPreservesUnknow": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestFileSafeMutationSchemaAndCom": {
+            "seconds": 1.751,
+            "tests": 0
+        },
+        "TestFormatSQLRowsKeepsValuesAlig": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestFormatSQLRowsReportsPossible": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestFormatTagTextMark": {
+            "seconds": 0,
+            "tests": 2
+        },
+        "TestGetAllToolsSorted": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestGrepUnlimitedContextAndAutho": {
+            "seconds": 0.28,
+            "tests": 1
+        },
+        "TestHTMLAssetIFrameBlockDOM": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestInboxConvertRejectsEncrypted": {
+            "seconds": 0.003,
+            "tests": 1
+        },
+        "TestMarkdownToBlockDOMCreatesHor": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestNewAssetUploadToolResultPres": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestNormalizeHTMLAssetName": {
+            "seconds": 0.002,
+            "tests": 1
+        },
+        "TestObserveRegistry": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestParseAttrValues": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestRepoCheckoutFailure": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestRunImageOperationAllowsRetry": {
+            "seconds": 0.034,
+            "tests": 1
+        },
+        "TestRunImageOperationBlocksUnkno": {
+            "seconds": 1.015,
+            "tests": 1
+        },
+        "TestRunImageOperationDoesNotRetr": {
+            "seconds": 0.018,
+            "tests": 1
+        },
+        "TestRunImageOperationReusesSucce": {
+            "seconds": 1.031,
+            "tests": 2
+        },
+        "TestSQLQueryEmbedDOMPreservesMul": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestSQLResultPreservesRawValuesA": {
+            "seconds": 0,
+            "tests": 2
+        },
+        "TestSQLSchemaActionAndEmptyStruc": {
+            "seconds": 1.001,
+            "tests": 1
+        },
+        "TestSearchSQLQueries": {
+            "seconds": 1.332,
+            "tests": 1
+        },
+        "TestSecurityReproMCPReadsPublish": {
+            "seconds": 1.092,
+            "tests": 2
+        },
+        "TestSecurityReproRecursiveFileOp": {
+            "seconds": 1.78,
+            "tests": 1
+        },
+        "TestSecurityReproUnzipRejectsSen": {
+            "seconds": 0.739,
+            "tests": 2
+        },
+        "TestSetToolKeepsExistingToolWhen": {
+            "seconds": 0,
+            "tests": 2
+        },
+        "TestSkillContentOmitsLocationFor": {
+            "seconds": 0.008,
+            "tests": 1
+        },
+        "TestSkillLoadResolvesVariablesOn": {
+            "seconds": 0.069,
+            "tests": 1
+        },
+        "TestSnippetContentSearchAndParti": {
+            "seconds": 1.033,
+            "tests": 1
+        },
+        "TestSnippetToolPaginationAndPrev": {
+            "seconds": 1.035,
+            "tests": 0
+        },
+        "TestSnippetToolRoundTripAndReadO": {
+            "seconds": 0.066,
+            "tests": 1
+        },
+        "TestSnippetToolSchemaAndEffects": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestTemplateActionsAcceptDotPref": {
+            "seconds": 0.006,
+            "tests": 1
+        },
+        "TestTemplatePathGetSymlink": {
+            "seconds": 1.005,
+            "tests": 1
+        },
+        "TestTodoWriteRejectsInvalidSessi": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestTodoWriteReturnsSessionResul": {
+            "seconds": 0.005,
+            "tests": 1
+        },
+        "TestToolEffectsForFallsBackToCap": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestToolSchemaPreservesUnknownKe": {
+            "seconds": 0,
+            "tests": 0
+        },
+        "TestToolValidatorAcceptsExplicit": {
+            "seconds": 1,
+            "tests": 1
+        },
+        "TestToolValidatorRejectsExcessiv": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestToolValidatorTimeoutIsIsolat": {
+            "seconds": 0.01,
+            "tests": 2
+        },
+        "TestToolValidatorValidatesInputA": {
+            "seconds": 0.001,
+            "tests": 1
+        },
+        "TestTruncateText": {
+            "seconds": 0,
+            "tests": 1
+        },
+        "TestValidateAssetUploadPaths": {
+            "seconds": 0.045,
+            "tests": 1
+        }
+    }
+}
